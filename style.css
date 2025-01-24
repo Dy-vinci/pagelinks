@@ -39,7 +39,8 @@ body * {
 }
 
 #container {
-  width: 360px;
+  width: 100%;
+  max-width: 588px;
   /* O height não serra preciso colocar pois a caixa ( container) irra aumentar com formar colocarmos caixar nele
   height: 720px;*/
   /*border: 1px solid red;*/
