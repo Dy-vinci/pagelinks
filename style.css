@@ -101,7 +101,7 @@ essa poderia ser tambem uma formar para centralizar a imagem
   z-index: 1;
   transform: translateY(-50%);
 
-  animation: slide-out 0.2s;
+  animation: slide-out 0.4s;
 }
 
 .light #switch button{
